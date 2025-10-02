@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "gamecontents attack.sln"
+    "dotnet.defaultSolution": "2025_1_GameProject_101.sln"
 }
